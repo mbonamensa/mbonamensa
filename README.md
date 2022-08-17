@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey there, welcome to Maame's Github!
 
-<!--
-**mbonamensa/mbonamensa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm on a journey of becoming a Front-end Engineer. I currently work as a Community Manager at [Hubfindme](https://hubfind.me).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: She/Her
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning JavaScript, Reactjs, and Nextjs.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Front Engineer (Intern or Junior level).
+- 📫 You can contact me by sending an email to mysmbm@gmail.com
+
