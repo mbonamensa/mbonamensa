@@ -1,7 +1,7 @@
 # Hey there, welcome to Maame's Github!
 
 
-I'm on a journey of becoming a Front-end Engineer. I currently work as a Community Manager at [Hubfindme](https://hubfind.me).
+I'm on a journey to becoming a Front-end Engineer. I currently work as a Community Manager at [Hubfindme](https://hubfind.me).
 
 **Here's a quick summary about me**:
 
