@@ -11,6 +11,6 @@ I'm on a journey to becoming a Frontend Engineer. I currently work as a Communit
 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.  
 💼 Job interests: Frontend Engineer (Intern or Junior level).  
 📫 You can contact me by sending an email to mysmbm@gmail.com.  
-🥳 You can find my [Frontend Mentor](https://www.frontendmentor.io/home) solutions and [Scrimba](https://scrimba.com/) projects by checking repositories that start with **"fem"** and **"imb"** respectively  
+🥳 You can find my [Frontend Mentor](https://www.frontendmentor.io/home) solutions and [Scrimba](https://scrimba.com/) projects by checking repositories that start with **"fem"** and **"imb"** respectively.  
 👩🏾‍💻 Checkout my [portfolio website](https://mbonamensa.netlify.app).  
 
